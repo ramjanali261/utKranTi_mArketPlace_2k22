@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 50rem;
+  height: 40rem;
+  background-color: aqua;
+  margin-top: 2rem;
+}
+.log {
+    margin-left: 4rem;
+    padding: 2rem;
+  background-color: rgb(233, 233, 236);
+  width: 80%;
+}
